@@ -119,7 +119,7 @@ php artisan serve
 
 | Alan | Değer |
 |------|--------|
-| E-posta | `admin@kesfetlab.local` |
+| E-posta | `admin@admin.com` |
 | Şifre | `admin123` |
 
 Üretimde bu hesabı değiştirin veya kaldırın.
